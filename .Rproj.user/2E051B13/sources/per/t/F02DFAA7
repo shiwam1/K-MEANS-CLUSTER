@@ -1,0 +1,26 @@
+{
+    "id": "F02DFAA7",
+    "path": "E://k_means_cluste/k_means_cluster.R",
+    "project_path": "k_means_cluster.R",
+    "type": "r_source",
+    "hash": "2760501608",
+    "contents": "",
+    "dirty": false,
+    "created": 1643074547661.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "83,37",
+        "scrollLine": "72",
+        "notebook_format": "word_document"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1643105892,
+    "encoding": "ISO8859-1",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1643105892014,
+    "read_only": false,
+    "read_only_alternatives": []
+}
